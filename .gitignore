@@ -1,0 +1,17 @@
+# Ignore Visual Studio build folders
+bin/
+obj/
+.vs/
+
+# Ignore build outputs
+*.exe
+*.dll
+*.pdb
+*.cache
+*.log
+
+# Ignore user-specific files
+*.user
+*.suo
+*.db
+*.opendb
