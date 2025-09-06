@@ -1,7 +1,0 @@
-C:\Users\admin\OneDrive\Desktop\DSA\Array-DSA\1D-Arrays-1\bin\Debug\1D-Arrays-1.exe.config
-C:\Users\admin\OneDrive\Desktop\DSA\Array-DSA\1D-Arrays-1\bin\Debug\1D-Arrays-1.exe
-C:\Users\admin\OneDrive\Desktop\DSA\Array-DSA\1D-Arrays-1\bin\Debug\1D-Arrays-1.pdb
-C:\Users\admin\OneDrive\Desktop\DSA\Array-DSA\1D-Arrays-1\obj\Debug\1D-Arrays-1.csproj.AssemblyReference.cache
-C:\Users\admin\OneDrive\Desktop\DSA\Array-DSA\1D-Arrays-1\obj\Debug\1D-Arrays-1.csproj.CoreCompileInputs.cache
-C:\Users\admin\OneDrive\Desktop\DSA\Array-DSA\1D-Arrays-1\obj\Debug\1D-Arrays-1.exe
-C:\Users\admin\OneDrive\Desktop\DSA\Array-DSA\1D-Arrays-1\obj\Debug\1D-Arrays-1.pdb
