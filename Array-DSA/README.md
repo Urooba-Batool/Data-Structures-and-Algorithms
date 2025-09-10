@@ -51,6 +51,13 @@ Some of the most common operations on arrays:
 
 ---
 
+## 📑 Additional Resources in This Folder  
+Along with the source code files, this folder also contains:  
+- **PDF File** → Contains all the task problems with detailed statements.  
+- **Source Code with Screenshots** → Each problem has its source code along with output screenshots for better understanding.  
+
+---
+
 ## 💡 Why Arrays Are Important
 Arrays form the foundation of many advanced data structures such as:
 - Strings
