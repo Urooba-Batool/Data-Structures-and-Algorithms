@@ -101,8 +101,8 @@ By going through this folder, you will learn:
 
 ---
 
-## 📌 Next Step
-Once you are comfortable with arrays, move to **Linked Lists** to understand dynamic memory allocation and more flexible data storage.
+## 📌 Next Step  
+Once you are comfortable with arrays, move to **Recursion-DSA** to learn problem-solving using recursive techniques, which will help in understanding advanced concepts like divide and conquer, dynamic programming, and tree/graph traversals.  
 
 ---
 
